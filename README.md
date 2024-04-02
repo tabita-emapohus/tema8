@@ -62,4 +62,60 @@ function setup(){
   textSize(20);
   textAlign(CENTER, CENTER);
   text("7", 335 + 25, 5 + 25);
+
+  //numarul 8
+  fill("gray");
+  square(5, 60, 50);
+  fill("white");
+  textSize(20);
+  textAlign(CENTER, CENTER);
+  text("8", 5 + 25, 60 + 25);
+
+  //numarul 9
+  fill("purple");
+  square(60, 60, 50);
+  fill("white");
+  textSize(20);
+  textAlign(CENTER, CENTER);
+  text("9", 60 + 25, 60 + 25);
+
+  //numarul 10
+  fill("orange");
+  square(115, 60, 50);
+  fill("white");
+  textSize(20);
+  textAlign(CENTER, CENTER);
+  text("10", 115 + 25, 60 + 25);
+
+  // numarul 11
+  fill("blue");
+  square(170, 60, 50);
+  fill("white");
+  textSize(20);
+  textAlign(CENTER, CENTER);
+  text("11", 170 + 25, 60 + 25);
+
+  //numarul 12
+  fill("lightblue");
+  square(225, 60, 50);
+  fill("white");
+  textSize(20);
+  textAlign(CENTER, CENTER);
+  text("12", 225 + 25, 60 + 25);
+
+  //numarul 13
+  fill("orange");
+  square(280, 60, 50);
+  fill("white");
+  textSize(20);
+  textAlign(CENTER, CENTER);
+  text("13", 280 + 25, 60 + 25);
+
+  //numarul 14 
+  fill("lightpink");
+  square(335, 60, 50);
+  fill("white");
+  textSize(20);
+  textAlign(CENTER, CENTER);
+  text("14", 335 + 25, 60 + 25);
   }
