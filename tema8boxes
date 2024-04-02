@@ -177,4 +177,67 @@ function setup(){
   textSize(20);
   textAlign(CENTER, CENTER);
   text("21", 335 + 25, 115 + 25);
+
+//numarul 22
+  fill("magenta");
+  square(5, 170, 50);
+  fill("white");
+  textSize(20);
+  textAlign(CENTER, CENTER);
+  text("22", 5 + 25, 170 + 25);
+
+
+  //numarul 23
+  fill("green");
+  square(60, 170, 50);
+  fill("white");
+  textSize(20);
+  textAlign(CENTER, CENTER);
+  text("23", 60 + 25, 170 + 25);
+
+
+  //numarul 24
+  fill("lightblue");
+  square(115, 170, 50);
+  fill("white");
+  textSize(20);
+  textAlign(CENTER, CENTER);
+  text("24", 115 + 25, 170 + 25);
+
+
+  //numarul 25
+  fill("darkmagenta");
+  square(170, 170, 50);
+  fill("white");
+  textSize(20);
+  textAlign(CENTER, CENTER);
+  text("25", 170 + 25, 170 + 25);
+
+
+  //numarul 26
+  fill("crimson");
+  square(225, 170, 50);
+  fill("white");
+  textSize(20);
+  textAlign(CENTER, CENTER);
+  text("26", 225 + 25, 170 + 25);
+
+
+  //numarul 27
+  fill("red");
+  square(280, 170, 50);
+  fill("white");
+  textSize(20);
+  textAlign(CENTER, CENTER);
+  text("27", 280 + 25, 170 + 25);
+
+
+  //numarul 28
+  fill("crimson");
+  square(335, 170, 50);
+  fill("white");
+  textSize(20);
+  textAlign(CENTER, CENTER);
+  text("28", 335 + 25, 170 + 25);
+
   }
